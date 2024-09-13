@@ -27,3 +27,19 @@
    ```bash
    git clone https://github.com/YasinMakandar/Aconews_Repo.git
    cd frontend
+
+2. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YasinMakandar/Aconews_Repo.git
+   cd frontend
+
+3. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YasinMakandar/Aconews_Repo.git
+   cd frontend
+   
+4. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YasinMakandar/Aconews_Repo.git
+   cd frontend
+
