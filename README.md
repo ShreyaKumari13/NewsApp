@@ -1,6 +1,6 @@
-# AcoNews: News Aggregation Web Application
+# NewsApp: News Aggregation Web Application
 
-**AcoNews** is a modern news aggregation platform that fetches the latest articles using the GNews.io API. The app allows users to search for news by keyword, filter articles based on country, language, and category, and navigate through paginated results.
+**NewsApp** is a modern news aggregation platform that fetches the latest articles using the GNews.io API. The app allows users to search for news by keyword, filter articles based on country, language, and category, and navigate through paginated results.
 
 ## Features
 
