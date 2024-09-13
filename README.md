@@ -28,18 +28,18 @@
    git clone https://github.com/YasinMakandar/Aconews_Repo.git
    cd frontend
 
-2. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YasinMakandar/Aconews_Repo.git
-   cd frontend
+2. **Install dependencies**:
 
-3. **Clone the repository**:
    ```bash
-   git clone https://github.com/YasinMakandar/Aconews_Repo.git
-   cd frontend
+   npm install
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+
    
-4. **Clone the repository**:
+4. **Build the production files:**:
    ```bash
-   git clone https://github.com/YasinMakandar/Aconews_Repo.git
-   cd frontend
+   npm run build
+
 
