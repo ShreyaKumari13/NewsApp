@@ -25,7 +25,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YasinMakandar/Aconews_Repo.git
+   git clone https://github.com/ShreyaKumari13/NewsApp.git
    cd frontend
 
 2. **Install dependencies**:
